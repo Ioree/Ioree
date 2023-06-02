@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=32CD32&size=35&center=true&vCenter=true&width=1000&lines=Ah+oi,+Seja+bem+vindo+;Meu+nome+é+Iore;Eu+tenho+16+anos;E+Procuro+emprego+como+jovem+apreniz+:%29)](https://git.io/typing-svg)<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ioree&show_icons=true&icon_color=32CD32&theme=dark&title_color=32CD32)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ioree&layout=compact&icon_color=FF8C00&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ioree&layout=compact&icon_color=FF8C00&theme=dark&title_color=32CD32)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline block"><br>
   <img aling="center" height="35px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />   
